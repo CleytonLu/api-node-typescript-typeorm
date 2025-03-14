@@ -1,0 +1,2 @@
+yarn add express mysql typeorm dotenv reflect-metadata / para build
+yarn add -D typescript nodemon ts-node @types/express @types/node / para dev
